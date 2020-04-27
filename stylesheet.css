@@ -183,12 +183,12 @@ h3 {
   top: 44%;
   width: 100%;
   color: white;
+  text-align: center;
 }
 .text-contents {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
   font-size: 20px;
-  text-align: center;
   color: #4b0082;
 }
