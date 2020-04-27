@@ -170,6 +170,12 @@ footer {
   width: 20%;
 }
 
+.lesson p {
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
 .lesson-icon {
   position: relative;
 }
@@ -183,12 +189,12 @@ h3 {
   top: 44%;
   width: 100%;
   color: white;
-  text-align: center;
 }
+
 .text-contents {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 20px;
+  font-size: 15px;
   color: #4b0082;
 }
