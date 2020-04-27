@@ -199,7 +199,6 @@ body .goals-wrapper p{
 }
 .goals-wrapper .heading h1{
   color:black;
-   
 }
  
 .goals-wrapper b{
@@ -207,7 +206,7 @@ body .goals-wrapper p{
 }
 .goals-wrapper{
   width:100%;
-  padding-top:50px;
+  /*padding-top:50px;*/
   padding-bottom:50px;
   margin-left:auto;
   margin-right:auto;
