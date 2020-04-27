@@ -174,6 +174,10 @@ footer {
   position: relative;
 }
 
+.lesson-icon h3 {
+  text-align: center;
+}
+
 .lesson-icon p {
   position: absolute;
   top: 44%;
