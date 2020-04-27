@@ -12,6 +12,9 @@
   .heading h2 {
     font-size: 20px;
   }
+  .content{
+    width:30%;
+  }
 }
 
 /* Untuk Smartphone */
@@ -54,5 +57,8 @@
 
 footer {
     text-align: center;
+  }
+  .content{
+    width:90%;
   }
 }
