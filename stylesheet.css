@@ -170,10 +170,6 @@ footer {
   width: 20%;
 }
 
-.lesson p {
-  text-align: center;
-}
-
 .lesson-icon {
   position: relative;
 }
@@ -182,17 +178,14 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  text-align: center;
+  color: #4b0082;
+}
+
 .lesson-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
   color: white;
-}
-
-.text-contents {
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 15px;
-  color: #4b0082;
 }
